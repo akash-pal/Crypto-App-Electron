@@ -15,5 +15,5 @@ Add Screen
 To run the app
 ---------------
 1. <b>npm install </b> - to install the dependencies.
-2. <b>npm start </<b> - to run in development mode.
+2. <b>npm start </b> - to run in development mode.
 3. <b>npm run package-win/package-mac/package-linux </b> - to package the app for windows,Mac and linux respectively.  
